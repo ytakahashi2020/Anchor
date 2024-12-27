@@ -82,7 +82,7 @@ Program from @coral-xyz/anchor
 
 - program.method.<functionName>.accounts().signers().rpc()
 - accounts  
-  1 new_account
-  2 signer
+  1 new_account  
+  2 signer  
   3 systemProgram
 - signers
